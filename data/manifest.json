@@ -1,7 +1,7 @@
 {
   "dataset": "Marble Skill Taxonomy",
   "taxonomyVersion": "v1",
-  "generatedAt": "2026-07-08T18:37:44.518Z",
+  "generatedAt": "2026-07-08T18:46:14.195Z",
   "codesOnlySources": [
     "c3-social-studies",
     "head-start-elof",
@@ -21,7 +21,7 @@
       "Personal & Social Development": 88,
       "Science": 547
     },
-    "dependencies": 3287,
+    "dependencies": 3288,
     "curricula": 8,
     "curriculumStandards": 3282,
     "topicStandardLinks": 1919,
@@ -33,8 +33,8 @@
       "sha256": "2ece9183a2328901f47da61aaeda3a5f1b23f343f5b0c9a2b18846bf3ddb7d6a"
     },
     "dependencies.json": {
-      "bytes": 712162,
-      "sha256": "50c580d66eb04dd8d2a400c7c37eaa6617cc30a066ca117abbb7340801b9d90e"
+      "bytes": 712460,
+      "sha256": "e62d0b38da0448ca91a710fd2b09f5b42e176d99cbb57bc4af36955b55d90264"
     },
     "curriculum-standards.json": {
       "bytes": 1624441,

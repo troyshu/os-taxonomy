@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId` (the prerequisite). Directed edges of a DAG.",
-  "edgeCount": 3287,
+  "edgeCount": 3288,
   "dependencies": [
     {
       "topicId": "mt__00ZSLnB7p",
@@ -19698,8 +19698,8 @@
     {
       "topicId": "mt_PvU3eoikev",
       "prerequisiteId": "mt_ec_en_beginning_sound_noticing",
-      "strength": "soft",
-      "reason": "Beginning-sound noticing supports later onset-rime and phoneme work"
+      "strength": "hard",
+      "reason": "Onset-rime and phoneme work should build from earlier beginning-sound noticing, not only from letter knowledge"
     },
     {
       "topicId": "mt_sSQlLOnAow",
@@ -19724,6 +19724,12 @@
       "prerequisiteId": "mt_ec_en_first_then_event_sequences",
       "strength": "soft",
       "reason": "Simple event sequencing supports later prediction about what happens next"
+    },
+    {
+      "topicId": "mt_F978c32kDr",
+      "prerequisiteId": "mt_ec_en_beginning_sound_noticing",
+      "strength": "hard",
+      "reason": "Letter-sound links require noticing spoken beginning sounds; letter-name knowledge alone is not enough"
     }
   ]
 }
