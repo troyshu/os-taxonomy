@@ -8,7 +8,7 @@ Dataset releases are versioned independently of the taxonomy `version` field
 
 ### Added
 - 27 early-childhood precursor topics, including 26 English topics for ages 2-5 and one Learning to Learn shared-attention prerequisite.
-- 66 prerequisite edges connecting toddler/preschool oral language, early grammar, narrative, print-awareness, and phonological-awareness precursors into the existing English graph.
+- 67 prerequisite edges connecting toddler/preschool oral language, early grammar, narrative, print-awareness, and phonological-awareness precursors into the existing English graph.
 - Codes-only Head Start ELOF source records for early-childhood alignment discussion.
 - 5 age-2 English domain clusters.
 
